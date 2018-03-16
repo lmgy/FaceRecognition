@@ -1,13 +1,13 @@
 # FaceRecognition
 A simple face recognition program based on MTCNN and Tensorflow  
-[中文README.md][./README-Zh.md]
+[中文README.md][/README-Zh.md]
 
 ## Usage:
 1. Build the development environment
-2. Download the pretrained models here: Link: https://pan.baidu.com/s/1skGsxbf Password: 6666
-    Then extract those files into models
+2. Download the pretrained models here: Link: https://pan.baidu.com/s/1skGsxbf Password: 6666  
+   Then extract those files into models
 3. 
-```bash
+```Bash
 python main.py
 ```
 
