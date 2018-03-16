@@ -8,8 +8,8 @@ A simple face recognition program based on MTCNN and Tensorflow
     3. Run main.py
 
 ## Demos:
-	![Demo](https://github.com/lmgy/FaceRecognition/blob/master/demos/pic1.jpg)
-	![Demo](https://github.com/lmgy/FaceRecognition/blob/master/demos/pic2.jpg)
+	![Demo1](https://github.com/lmgy/FaceRecognition/blob/master/demos/pic1.jpg)
+	![Demo2](https://github.com/lmgy/FaceRecognition/blob/master/demos/pic2.jpg)
 ## Requirements:
     Python 3.5.4
 
