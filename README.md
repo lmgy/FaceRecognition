@@ -1,6 +1,6 @@
 # FaceRecognition
 A simple face recognition program based on MTCNN and Tensorflow  
-[中文README.md][/README-Zh.md]
+[中文README.md](/README-Zh.md)
 
 ## Usage:
 1. Build the development environment
