@@ -1,0 +1,10 @@
+{
+	"db_path": "./FaceRecognition_128D.json",
+	"model_dir": "./models/",
+	"faces_dir": "./faces/",
+	"error_path": "./error_people.txt",
+	"thres": 0.6,
+	"percent_thres": 70,
+	"min_recognize_size": 32,
+	"min_create_size": 80
+}
